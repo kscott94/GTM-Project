@@ -1,4 +1,4 @@
-# GTM-Project
+# Variant detection using cfDNA collected from metastatic colorectal cancer patients
 
 ### Project Description
 
